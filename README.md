@@ -1,5 +1,5 @@
 # test
 
 ***
-ist commit
+1ST COMMIT
 ***
